@@ -1,6 +1,6 @@
-# como instalar 
+# Como Instalar 
 npm install 
-# como iniciar 
+# Como Iniciar 
 npm run dev
 # Preview
 ## Index
