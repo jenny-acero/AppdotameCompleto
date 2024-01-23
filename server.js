@@ -30,6 +30,14 @@ mongoose.connection
 // pull schema and model from mongoose
 const {Schema, model} = mongoose
 
+// Mongo coneccion
+const mongoose = require('mongoose');
+
+mongoose.connect('mongodb+srv://jenny:Manchas123.@cluster0.mongodb.net/test?retryWrites=true&w=majority', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
+
 // make fruits schema
 const todoSchema = new Schema({
     text: String
