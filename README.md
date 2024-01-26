@@ -14,5 +14,7 @@ npm run dev
 
 ## ChatBot
 ![image](https://github.com/jenny-acero/AppdotameCompleto/assets/131212098/1d8120cb-6628-41c6-8417-4a6322feae85)
+![image](https://github.com/jenny-acero/AppdotameCompleto/assets/131212098/98f20873-90c1-4b12-a90d-fccdd3b1f4c9)
+
 
 
